@@ -1,0 +1,61 @@
+.topbar{
+    width:100%;
+    height:78px;
+    position: sticky;
+    top:0;
+    z-index: 999;
+     background-image: linear-gradient(180deg,black,#02befc) !important;
+
+     border-bottom: 4px solid #fff;
+     border-top: 3px solid #fff;
+    }
+    
+    .topbarWrapper{
+    height:100%;
+    padding:0px 20px 0 0;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+
+    .logoCloudez{
+        font-weight: bold;
+        font-size:30px;
+        color: #fff;
+        }
+
+        .topLeft {
+            display: flex;
+            align-items: center;
+        }
+        
+        ul.topbarList {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            width: 650px;
+            margin-bottom: 0;
+        }
+        
+        ul.topbarList li{
+            list-style: none;
+        }
+
+        ul.topbarList li a{
+            color: #fff;
+            font-size: 17px;
+            text-decoration: none;
+            /* display: flex; */
+            /* align-items: center; */
+        }
+
+        ul.topbarList li:hover, ul.topbarList .active {
+            border-bottom: 3px solid #fff;
+            margin-top: 2px;
+            padding: 15px 0;
+            /* padding-bottom: 35px; */
+        }
+
+        /* .logo{
+            background-image: url(./images/CloudEz.png);
+        } */

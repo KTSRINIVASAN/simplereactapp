@@ -1,0 +1,26 @@
+/* .budget_table{
+    margin-left: 15px;
+} */
+
+.budget_form{
+margin-bottom: 15px;
+width: 500px;
+}
+
+.budget_form input {
+    width: 450px;
+}
+
+.budgetReport_table th{
+    font-size: 17px;
+}
+
+/* .table_red_color{
+    background-image: ;
+} */
+.tableRedCol {
+    width: 15px;
+    height: 10px;
+    border: 1px solid #000;
+    padding: 0px;
+}

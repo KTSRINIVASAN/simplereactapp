@@ -1,0 +1,26 @@
+.feature_card{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.card_icon{
+    /* border-radius: 50%; */
+    /* padding: 10px;
+    margin-left: 20px; */
+    }
+
+.cardBlk{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+.cardBlk_rft {
+    /* background-color: greenyellow; */
+    padding: 10px;
+    border-radius: 50%;
+}

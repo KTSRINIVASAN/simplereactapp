@@ -1,0 +1,25 @@
+.CostSaving{
+    display: flex;
+    position: relative;
+}
+
+.CostSaving_lft{
+    /* display: flex; */
+    flex:3;
+}
+.CostSaving_rft {
+    /* display: flex; */
+    flex: 0.8;
+    /* background-color: white; */
+    /* position: sticky;
+    top: 70px; */
+}
+
+.CostSaving_rft h5 {
+    /* background-color: #0046a9; */
+    background-image: linear-gradient(180deg,#2659d1, #039dfc);
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+    padding: 5px;
+}

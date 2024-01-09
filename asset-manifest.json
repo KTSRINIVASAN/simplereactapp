@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/simplereactapp/static/css/main.2fe23cfb.css",
+    "main.js": "/simplereactapp/static/js/main.c6a98435.js",
+    "static/media/CImage.JPG": "/simplereactapp/static/media/CImage.f2d3212170fc22fc4952.JPG",
+    "static/media/CloudEz.png": "/simplereactapp/static/media/CloudEz.2f0043e4e0cc2c015d8b.png",
+    "static/media/hitrust_logo.PNG": "/simplereactapp/static/media/hitrust_logo.a198fd295543e9babb02.PNG",
+    "index.html": "/simplereactapp/index.html",
+    "static/media/correct.svg": "/simplereactapp/static/media/correct.b4ecc11668d9c91c0d40fbcb86583155.svg",
+    "static/media/incorrect.svg": "/simplereactapp/static/media/incorrect.49243ba8f6797d012260b2c501e19da9.svg",
+    "main.2fe23cfb.css.map": "/simplereactapp/static/css/main.2fe23cfb.css.map",
+    "main.c6a98435.js.map": "/simplereactapp/static/js/main.c6a98435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe23cfb.css",
+    "static/js/main.c6a98435.js"
+  ]
+}
